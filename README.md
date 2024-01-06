@@ -1,8 +1,25 @@
-# Aplikasi Minat Bakat PI - Vb.NET
+# Aplikasi Minat Bakat - Vb.NET
 
 **Panduan Penggunaan**
-Aplikasi Sistem Informasi Minat dan Bakat. Developing pada desain aplikasi menggunakan Guna.UI
-disini, saya tidak membuat input database data user. silahkan Coder membangun database-nya sendiri dengan sesuai kebutuhan.
+
+Aplikasi Sistem Informasi Minat dan Bakat. _**Developing pada desain aplikasi menggunakan Guna.UI**_.
+disini, saya tidak membuat input database data user. hanya berupa desain aplikasi saja.
+
+silahkan Coder membangun database-nya sendiri dengan sesuai kebutuhan.
+------
+
+Informasi Software :
+- Bahasa : Visual Basic .NET Framework 4.5
+- Tools : Microsoft Visual Studio 2013
+- Framework : [Guna.UI](https://gunaui.com/products/ui-winforms/)
+- Font : Microsoft Sans Serif, Segoe UI, Poppins
+
+_**WARNING :**
+Jangan lupa meng-install font Poppins terlebih dahulu!_
+
+
+------
+
 
 ## Preview / Apps
 **Form Login & Form Dashboard**
