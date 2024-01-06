@@ -30,7 +30,8 @@ Login|Dashboard|Tentang
 |--|--|--|
 ![img](https://raw.githubusercontent.com/tuahafriadi/aplikasi-minat-bakat-vb-net/main/Previews/Screenshot_6.png)|![img](https://raw.githubusercontent.com/tuahafriadi/aplikasi-minat-bakat-vb-net/main/Previews/Screenshot_3.png)|![img](https://raw.githubusercontent.com/tuahafriadi/aplikasi-minat-bakat-vb-net/main/Previews/Screenshot_5.png)
 ----------------------------------------
+- Donasi : https://saweria.co/darkostepbro
 - Facebook : www.facebook.com/diiwjyx
 - Instagram : www.instagram.com/tuahafriadi_
 
-Thank you
+**Thank you!**
