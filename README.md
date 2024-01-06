@@ -6,7 +6,7 @@ disini, saya tidak membuat input database data user. silahkan Code Hunter memban
 
 ## Preview / Apps
 **Form Login & Form Dashboard**
-Login|Dashboard
-|--|--|
-![img](https://raw.githubusercontent.com/adiwj/adiwj.github.io/master/Preview/dextab.png)|![img](https://raw.githubusercontent.com/adiwj/adiwj.github.io/master/Preview/wanjex.png)
+Login|Dashboard|Tentang
+|--|--|--|
+![img](https://raw.githubusercontent.com/tuahafriadi/aplikasi-minat-bakat-vb-net/main/Previews/Screenshot_4.png)|![img](https://raw.githubusercontent.com/tuahafriadi/aplikasi-minat-bakat-vb-net/main/Previews/Screenshot_3.png)
 ----------------------------------------
