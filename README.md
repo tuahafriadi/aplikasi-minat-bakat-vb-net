@@ -3,7 +3,7 @@
 **Panduan Penggunaan**
 
 Aplikasi Sistem Informasi Minat dan Bakat. _**Developing pada desain aplikasi menggunakan Guna.UI**_.
-disini, saya tidak membuat input database data user. hanya berupa desain aplikasi saja.
+disini, saya tidak membuat input database seperti connection,user,mysql, dll.. hanya berupa desain aplikasi saja.
 
 silahkan Coder membangun database-nya sendiri dengan sesuai kebutuhan.
 ------
