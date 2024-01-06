@@ -8,5 +8,9 @@ disini, saya tidak membuat input database data user. silahkan Code Hunter memban
 **Form Login & Form Dashboard**
 Login|Dashboard|Tentang
 |--|--|--|
-![img](https://raw.githubusercontent.com/tuahafriadi/aplikasi-minat-bakat-vb-net/main/Previews/Screenshot_4.png)|![img](https://raw.githubusercontent.com/tuahafriadi/aplikasi-minat-bakat-vb-net/main/Previews/Screenshot_3.png)
+![img](https://raw.githubusercontent.com/tuahafriadi/aplikasi-minat-bakat-vb-net/main/Previews/Screenshot_4.png)|![img](https://raw.githubusercontent.com/tuahafriadi/aplikasi-minat-bakat-vb-net/main/Previews/Screenshot_3.png)|![img](https://raw.githubusercontent.com/tuahafriadi/aplikasi-minat-bakat-vb-net/main/Previews/Screenshot_5.png)
 ----------------------------------------
+- Facebook : www.facebook.com/diiwjyx
+- Instagram : www.instagram.com/tuahafriadi_
+
+Thank you
