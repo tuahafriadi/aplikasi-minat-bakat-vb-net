@@ -19,7 +19,10 @@ Jangan lupa meng-install font Poppins terlebih dahulu!_
 
 
 ------
-
+Login aplikasi,
+- Username : admin
+- Password : admin
+------
 
 ## Preview / Apps
 **Form Login & Form Dashboard**
